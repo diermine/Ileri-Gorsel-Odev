@@ -1,0 +1,10 @@
+D:\Okul\İleri Görsel\Görsel Ödev\Görsel Ödev\bin\Debug\Görsel Ödev.exe.config
+D:\Okul\İleri Görsel\Görsel Ödev\Görsel Ödev\bin\Debug\Görsel Ödev.exe
+D:\Okul\İleri Görsel\Görsel Ödev\Görsel Ödev\bin\Debug\Görsel Ödev.pdb
+D:\Okul\İleri Görsel\Görsel Ödev\Görsel Ödev\obj\Debug\Görsel Ödev.csproj.AssemblyReference.cache
+D:\Okul\İleri Görsel\Görsel Ödev\Görsel Ödev\obj\Debug\Görsel_Ödev.Form1.resources
+D:\Okul\İleri Görsel\Görsel Ödev\Görsel Ödev\obj\Debug\Görsel_Ödev.Properties.Resources.resources
+D:\Okul\İleri Görsel\Görsel Ödev\Görsel Ödev\obj\Debug\Görsel Ödev.csproj.GenerateResource.cache
+D:\Okul\İleri Görsel\Görsel Ödev\Görsel Ödev\obj\Debug\Görsel Ödev.csproj.CoreCompileInputs.cache
+D:\Okul\İleri Görsel\Görsel Ödev\Görsel Ödev\obj\Debug\Görsel Ödev.exe
+D:\Okul\İleri Görsel\Görsel Ödev\Görsel Ödev\obj\Debug\Görsel Ödev.pdb
